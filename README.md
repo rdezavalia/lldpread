@@ -1,8 +1,8 @@
 # lldpread
 
-lldpread is an lldp client that is able to read an lldp frame and display information about your network neighboars.
+lldpread is an lldp client that is able to read an lldp frame and display information about your network neighbors.
 
-The easiest way to use it is to copy the binary to the host where you want to check network neighboars and run it:
+The easiest way to use it is to copy the binary to the host where you want to check network neighbors and run it:
 
     # ./lldpread
     - Iface: eth1
